@@ -1,0 +1,24 @@
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQNurse.csprojResolveAssemblyReference.cache
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.FormNhanBenh.resources
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.Properties.Resources.resources
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQNurse.csproj.GenerateResource.Cache
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.exe
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.pdb
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\ActiveMQDoctor.exe.config
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\ActiveMQDoctor.exe
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\ActiveMQDoctor.pdb
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\Apache.NMS.ActiveMQ.dll
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\Apache.NMS.dll
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\Apache.NMS.pdb
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\Apache.NMS.ActiveMQ.pdb
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\Apache.NMS.ActiveMQ.xml
+G:\FIT IUH\KT & TK Phan Mem\ActiveMQ\ActiveMQNurse\ActiveMQNurse\bin\Debug\ActiveMQDoctor.exe.config
+G:\FIT IUH\KT & TK Phan Mem\ActiveMQ\ActiveMQNurse\ActiveMQNurse\obj\Debug\ActiveMQDoctor.exe
+G:\FIT IUH\KT & TK Phan Mem\ActiveMQ\ActiveMQNurse\ActiveMQNurse\obj\Debug\ActiveMQDoctor.pdb
+G:\FIT\KT & TK Phan Mem\ActiveMQ\ActiveMQNurse\ActiveMQNurse\bin\Debug\ActiveMQDoctor.exe.config
+G:\FIT\KT & TK Phan Mem\ActiveMQ\ActiveMQNurse\ActiveMQNurse\obj\Debug\ActiveMQDoctor.exe
+G:\FIT\KT & TK Phan Mem\ActiveMQ\ActiveMQNurse\ActiveMQNurse\obj\Debug\ActiveMQDoctor.pdb
+G:\FIT\KT & TK Phan Mem\ActiveMQ\ActiveMQNurse\ActiveMQNurse\obj\Debug\ActiveMQNurse.csprojResolveAssemblyReference.cache
+G:\FIT\KT & TK Phan Mem\ActiveMQ\ActiveMQNurse\ActiveMQNurse\obj\Debug\ActiveMQDoctor.FormNhanBenh.resources
+G:\FIT\KT & TK Phan Mem\ActiveMQ\ActiveMQNurse\ActiveMQNurse\obj\Debug\ActiveMQDoctor.Properties.Resources.resources
+G:\FIT\KT & TK Phan Mem\ActiveMQ\ActiveMQNurse\ActiveMQNurse\obj\Debug\ActiveMQNurse.csproj.GenerateResource.Cache

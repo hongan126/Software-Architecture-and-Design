@@ -1,0 +1,32 @@
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\ActiveMQDoctor.exe.config
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.csprojResolveAssemblyReference.cache
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.FormNhanBenh.resources
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.Properties.Resources.resources
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.csproj.GenerateResource.Cache
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\ActiveMQDoctor.exe
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\ActiveMQDoctor.pdb
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.exe
+D:\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.pdb
+G:\FIT\KT & TK Phan Mem\ActiveMQ\ActiveMQNurse\ActiveMQNurse\obj\Debug\ActiveMQDoctor.csprojResolveAssemblyReference.cache
+G:\FIT\KT & TK Phan Mem\ActiveMQ\ActiveMQNurse\ActiveMQNurse\obj\Debug\ActiveMQDoctor.FormNhanBenh.resources
+G:\FIT\KT & TK Phan Mem\ActiveMQ\ActiveMQNurse\ActiveMQNurse\obj\Debug\ActiveMQDoctor.Properties.Resources.resources
+G:\FIT\KT & TK Phan Mem\ActiveMQ\ActiveMQNurse\ActiveMQNurse\obj\Debug\ActiveMQDoctor.csproj.GenerateResource.Cache
+G:\FIT\KT & TK Phan Mem\ActiveMQ\ActiveMQNurse\ActiveMQNurse\obj\Debug\ActiveMQDoctor.exe
+G:\FIT\KT & TK Phan Mem\ActiveMQ\ActiveMQNurse\ActiveMQNurse\obj\Debug\ActiveMQDoctor.pdb
+c:\users\chuongpc\documents\visual studio 2015\Projects\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\ActiveMQDoctor.exe.config
+c:\users\chuongpc\documents\visual studio 2015\Projects\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.exe
+c:\users\chuongpc\documents\visual studio 2015\Projects\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.pdb
+c:\users\chuongpc\documents\visual studio 2015\Projects\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.csprojResolveAssemblyReference.cache
+c:\users\chuongpc\documents\visual studio 2015\Projects\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.Properties.Resources.resources
+c:\users\chuongpc\documents\visual studio 2015\Projects\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.csproj.GenerateResource.Cache
+c:\users\chuongpc\documents\visual studio 2015\Projects\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQNurse.FormNhanBenh.resources
+c:\users\chuongpc\documents\visual studio 2015\Projects\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\ActiveMQDoctor.exe
+c:\users\chuongpc\documents\visual studio 2015\Projects\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\ActiveMQDoctor.pdb
+c:\users\chuongpc\documents\visual studio 2015\Projects\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\Apache.NMS.ActiveMQ.dll
+c:\users\chuongpc\documents\visual studio 2015\Projects\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\Apache.NMS.dll
+c:\users\chuongpc\documents\visual studio 2015\Projects\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\Apache.NMS.pdb
+c:\users\chuongpc\documents\visual studio 2015\Projects\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\Apache.NMS.ActiveMQ.pdb
+c:\users\chuongpc\documents\visual studio 2015\Projects\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\Apache.NMS.ActiveMQ.xml
+G:\FIT\KT & TK Phan Mem\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\bin\Debug\ActiveMQDoctor.exe.config
+G:\FIT\KT & TK Phan Mem\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.exe
+G:\FIT\KT & TK Phan Mem\ActiveMQ\ActiveMQDoctor\ActiveMQDoctor\obj\Debug\ActiveMQDoctor.pdb
