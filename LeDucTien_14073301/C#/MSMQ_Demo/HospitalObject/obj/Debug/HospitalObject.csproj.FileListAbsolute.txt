@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\HospitalObject\bin\Debug\HospitalObject.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\HospitalObject\bin\Debug\HospitalObject.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\HospitalObject\obj\Debug\HospitalObject.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\HospitalObject\obj\Debug\HospitalObject.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\HospitalObject\obj\Debug\HospitalObject.pdb

@@ -1,0 +1,20 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\bin\Debug\SenderActiveMQ.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\bin\Debug\SenderActiveMQ.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\bin\Debug\SenderActiveMQ.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\bin\Debug\Apache.NMS.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\bin\Debug\HospitalObject.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\bin\Debug\HospitalObject.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\bin\Debug\Apache.NMS.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\bin\Debug\Apache.NMS.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\bin\Debug\Apache.NMS.ActiveMQ.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\bin\Debug\Apache.NMS.ActiveMQ.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\obj\Debug\SenderActiveMQ.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\obj\Debug\SenderActiveMQ.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\obj\Debug\SenderActiveMQ.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\obj\Debug\SenderActiveMQ.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\obj\Debug\SenderActiveMQ.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MSMQ_Demo\SenderActiveMQ\obj\Debug\SenderActiveMQ.pdb
+C:\Users\Admin\Source\NopBai\Software-Architecture-and-Design\LeDucTien_14073301\C#\MSMQ_Demo\SenderActiveMQ\bin\Debug\SenderActiveMQ.exe.config
+C:\Users\Admin\Source\NopBai\Software-Architecture-and-Design\LeDucTien_14073301\C#\MSMQ_Demo\SenderActiveMQ\obj\Debug\SenderActiveMQ.exe
+C:\Users\Admin\Source\NopBai\Software-Architecture-and-Design\LeDucTien_14073301\C#\MSMQ_Demo\SenderActiveMQ\obj\Debug\SenderActiveMQ.pdb
